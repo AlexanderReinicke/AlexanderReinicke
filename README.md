@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
 
+Currently based in Vienna 🇦🇹
+
+My most recent hackathon project:
 korbly.at - AI For your groceries 
 
 <!--
