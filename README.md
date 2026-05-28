@@ -6,7 +6,7 @@ Currently based in Vienna 🇦🇹
 
 ### 🚀 What I'm building
 
-**[glowinly.com](https://glowinly.com)** — Manage your links better
+**[glowinly.com](https://glowinly.com)** — Group/Manage your URLs in a better way
 
 **[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped 100+ users retain 2× more knowledge
 
