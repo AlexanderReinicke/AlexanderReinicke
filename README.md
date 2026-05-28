@@ -8,7 +8,7 @@ Currently based in Vienna 🇦🇹
 
 **[glowinly.com](https://glowinly.com)** — Manage your links better
 
-**[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped me retain 2× more knowledge
+**[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped 100+ users retain 2× more knowledge
 
 **[clawbox](https://github.com/AlexanderReinicke/clawbox)** — Run OpenClaw / Hermes in a private shell on your Mac
 
