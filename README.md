@@ -1,5 +1,10 @@
 ## Hi, I'm Alex 👋
 
+Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
+
+🏆 **Apple Swift Student Challenge 2023 Winner** — [read my story on Apple.com](https://www.apple.com/ca/education/university-and-college-students/success-stories/reinicke/)
+
+---
 Currently based in Vienna 🇦🇹
 
 ---
