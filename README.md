@@ -2,9 +2,22 @@
 
 Currently based in Vienna 🇦🇹
 
-glowinly.com - Manager your Links better
-bojanote.app - AI powered App for better book notetaking, helped me persist 2x more knowledge
-clawbox - Run your OpenClaw/Hermes in a private shell on your mac
+---
+
+### 🚀 What I'm building
+
+**[glowinly.com](https://glowinly.com)** — Manage your links better
+
+**[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped me retain 2× more knowledge
+
+**[clawbox](https://github.com/AlexanderReinicke/clawbox)** — Run OpenClaw / Hermes in a private shell on your Mac
+
+---
+
+### 📫 Get in touch
+
+- 💼 LinkedIn: [Alexander Reinicke](https://linkedin.com/in/AlexanderReinicke)
+- 📧 Email: alex.reinicke@icloud.com
 
 <!--
 **AlexanderReinicke/AlexanderReinicke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
