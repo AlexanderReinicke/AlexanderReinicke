@@ -14,15 +14,17 @@ Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
 
 **[clawbox](https://github.com/AlexanderReinicke/clawbox)** — Run OpenClaw / Hermes in a private shell on your Mac
 
-### 🚀 Unreleased Apps
-
-
 ### 💻 Hackathons
 **[Team: XCombinator](https://github.com/gardan4/Zero-One-XCombinator)** - Fine tuned an open-source Qwen model to optimize production for Semiconductors
 
 **[Team: Korbly](https://github.com/AlexanderReinicke/korbly)** - Automated groceries shopping through an MCP of a delivery service in Vienna
 
 **[Team: GolemForce]** - AI Speaker for habits tracking, connected to a UI
+
+### 🚀 Unreleased Apps
+**[JustCook]** - iOS App: AI Voice Assistant for Cooking
+
+**[BlinkYourEyes]** - iOS App: Guided eye exercises to reduce strain from long PC hours
 
 ---
 
