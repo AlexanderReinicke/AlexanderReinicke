@@ -6,13 +6,21 @@ Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
 
 ---
 
-### 🚀 What I'm building
+### 🚀 What I'm building now
 
 **[glowinly.com](https://glowinly.com)** — Group/Manage your URLs in a better way (Google Auth not working)
 
 **[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped 100+ users retain 2× more knowledge
 
 **[clawbox](https://github.com/AlexanderReinicke/clawbox)** — Run OpenClaw / Hermes in a private shell on your Mac
+
+### 🚀 Unreleased Apps
+
+
+### 💻 Hackathons
+**[Team: XCombinator](https://github.com/gardan4/Zero-One-XCombinator)** - Fine tuned an open-source Qwen model to optimize production for Semiconductors
+**[Team: Korbly](https://github.com/AlexanderReinicke/korbly)** - Automated groceries shopping through an MCP of a delivery service in Vienna
+**[Team: GolemForce]** - AI Speaker for habits tracking, connected to a UI
 
 ---
 
