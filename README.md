@@ -17,7 +17,7 @@ Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
 **[clawmigo: in progress]** - Telegram Bot for letting any AI Agent contact its owner with a question (through MCP), on a long running agentic missions
 
 ### 💻 Hackathons
-**[Team: XCombinator](https://github.com/gardan4/Zero-One-XCombinator)** - Fine tuned an open-source Qwen model to optimize production for Semiconductors
+**[Team: XCombinator](https://github.com/gardan4/Zero-One-XCombinator)** - Fine tuned an open-source Qwen LLM to optimize production for Semiconductors
 
 **[Team: Korbly](https://github.com/AlexanderReinicke/korbly)** - Automated groceries shopping through an MCP of a delivery service in Vienna
 
