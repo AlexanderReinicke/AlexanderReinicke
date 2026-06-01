@@ -8,7 +8,7 @@ Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
 
 ### 🚀 What I'm building
 
-**[glowinly.com](https://glowinly.com)** — Group/Manage your URLs in a better way
+**[glowinly.com](https://glowinly.com)** — Group/Manage your URLs in a better way (Google Auth not working)
 
 **[bojanote.app](https://bojanote.app)** — AI-powered book notetaking that helped 100+ users retain 2× more knowledge
 
