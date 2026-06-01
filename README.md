@@ -14,7 +14,8 @@ Ex-BMW (Project Management) · Ex-PwC (Consulting) · Lovable Ambassador
 
 **[clawbox](https://github.com/AlexanderReinicke/clawbox)** — Run OpenClaw / Hermes in a private shell on your Mac
 
-**[clawmigo: in progress]** - Telegram Bot for letting any AI Agent contact you with a question, on a long running agentic missions
+**[clawmigo: in progress]** - Telegram Bot for letting any AI Agent contact its owner with a question (through MCP), on a long running agentic missions
+
 ### 💻 Hackathons
 **[Team: XCombinator](https://github.com/gardan4/Zero-One-XCombinator)** - Fine tuned an open-source Qwen model to optimize production for Semiconductors
 
